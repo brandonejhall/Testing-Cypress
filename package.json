@@ -1,0 +1,22 @@
+{
+  "name": "testing-cypress",
+  "version": "1.0.0",
+  "description": "Testing Assignment 2 Brandon Hall , Giovanne Pinto",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonejhall/Testing-Cypress.git"
+  },
+  "author": "Brandon Hall Giovanne Pinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonejhall/Testing-Cypress/issues"
+  },
+  "homepage": "https://github.com/brandonejhall/Testing-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
